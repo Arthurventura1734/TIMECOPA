@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.sobre{
+    max-width: 1000px;
+    background-color: #5b8fff;
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+}
+.brasao{
+    width: 100px;
+}
+.container{
+    display: flex;
+  justify-content: center; /* centraliza horizontalmente */
+  align-items: flex-start; /* alinha no topo */
+  gap: 20px; /* distância entre o card e o Henry */
+}
+}
